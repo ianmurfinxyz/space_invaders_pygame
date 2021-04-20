@@ -1,8 +1,10 @@
-## Space Invaders Pygame
+## Space Invaders Pygame :space_invader:
 
 This is an old project I made back in 2019 when I was learning python. It is a remake of the arcade classic space invaders using pygame with lots of color and some funky sound effects. It is not very authentic to the original. :smile:
 
-![screenshot](img/gameplay.gif)
+<p align="center">
+  <img src="img/gameplay.gif" alt="gameplay gif"/>
+<p/>
 
 ## Installation
 
